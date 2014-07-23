@@ -1,4 +1,4 @@
-InternetWordsExtraction
+Neologism Extraction on Microblog
 =======================
 
 This is the course project for CMPT825(NLP). <br/>
